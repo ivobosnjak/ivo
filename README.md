@@ -2,8 +2,8 @@
  
 
 - 🔭 I’m currently working on YouTube  
-- 🔴 My YouTube Channel : [Click](https://www.youtube.com/channel/UCw5DGKfFfSVdWj2JKJ7EMQQ) 
-- 📫 How to reach me : kaizer.business@outlook.com 
+- 🔴 My YouTube Channel : [Click](https://www.youtube.com/channel/UCMG2U_Wd3a67P-DTMjCTNsg) 
+- 📫 How to reach me : ivobosnjak21@gmail.com
 
 # Tools & Languages
 ![vsc](https://user-images.githubusercontent.com/70588174/156886084-8a9649f0-ec65-42d5-8cec-3dca54a058be.png)
