@@ -2,7 +2,7 @@
  
 
 - 🔭 I’m currently working on YouTube  
-- 🔴 My YouTube Channel : [Click](https://www.youtube.com/channel/UCMG2U_Wd3a67P-DTMjCTNsg) 
+- 🔴 My YouTube Channel : [Click](https://www.youtube.com/channel/UC5GRbv5VAiRnZE4yIp2MDGQ) 
 - 📫 How to reach me : ivobosnjak21@gmail.com
 
 # Tools & Languages
